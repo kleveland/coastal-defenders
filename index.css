@@ -80,7 +80,7 @@ ul li:hover a {
 }
 /* Heading Section */
 .titleheading {
-	background: url(./oceanbg.jpg) center center no-repeat;
+	background: url(./oceanbg1.jpg) center center no-repeat;
 	padding-top: 150px;
 	padding-bottom: 150px;
 	
@@ -98,7 +98,7 @@ ul li:hover a {
 /* Parallax Section */
 .banner {
 	background-color: #2D9AB7;
-	height: 600px;
+	height: 800px;
 	background-repeat: no-repeat;
 	position: relative;
 }

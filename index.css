@@ -21,13 +21,13 @@ body {
 
 /*Hyperlink*/
 a {
-	color: #FFFFFF;
+	color: #000080;
 	font-size: 16px;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #000080;
+	color: #FFFFFF;
 }
 
 /* Navigation */

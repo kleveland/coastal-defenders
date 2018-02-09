@@ -118,8 +118,7 @@ ul li:hover a {
 	color: #FFFFFF;
 	text-align: left;
 	padding-top: 110px;
-	padding-right: 200px;
-	padding-left: 150px;
+	padding-left: 10px;
 	letter-spacing: 2px;
 	margin-top: 0px;
 	margin-left: 150px;
@@ -130,6 +129,7 @@ ul li:hover a {
 	display: inline-block;
 	text-align: left;
 	letter-spacing: 1px;
+	padding-right: 110px;
 	padding-bottom: 110px;
 	width: 90%;
 	float: left;

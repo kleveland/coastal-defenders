@@ -126,7 +126,7 @@ ul li:hover a {
 .parallax_description {
 	color: #FFFFFF;
 	display: inline-block;
-	text-align: center;
+	text-align: left;
 	letter-spacing: 1px;
 	padding-right: 100px;
 	padding-bottom: 110px;

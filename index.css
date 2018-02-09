@@ -110,7 +110,7 @@ ul li:hover a {
 /* Parallax Section */
 .banner {
 	background-color: #2D9AB7;
-	height: 1200px;
+	height: 1100px;
 	background-repeat: no-repeat;
 	position: relative;
 }
@@ -118,7 +118,6 @@ ul li:hover a {
 	color: #FFFFFF;
 	text-align: left;
 	padding-top: 110px;
-	padding-left: 10px;
 	letter-spacing: 2px;
 	margin-top: 0px;
 	margin-left: 150px;

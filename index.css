@@ -110,7 +110,7 @@ ul li:hover a {
 /* Parallax Section */
 .banner {
 	background-color: #2D9AB7;
-	height: 1300px;
+	height: 1200px;
 	background-repeat: no-repeat;
 	position: relative;
 }
@@ -126,14 +126,14 @@ ul li:hover a {
 .parallax_description {
 	color: #FFFFFF;
 	display: inline-block;
-	text-align: right;
+	text-align: center;
 	letter-spacing: 1px;
 	padding-right: 100px;
 	padding-bottom: 110px;
 	width: 75%;
 	float: right;
 	font-weight: bold;
-	font-size: 18px;
+	font-size: 16px;
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 0px;
@@ -415,7 +415,7 @@ nav ul li {
 	margin-left: 0px;
 	float: none;
 	width: 100%;
-		height: 100%;
+	height: 100%;
 	text-align: center;
 	overflow: auto;
 }

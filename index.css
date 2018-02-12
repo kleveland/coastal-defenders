@@ -90,6 +90,19 @@ ul li:hover a {
 	height: 60vh;
 
 }
+
+.subtitle_header {
+	color: #FFFFFF;
+	text-align: center;
+	margin-top: -400px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	letter-spacing: 3px;
+	font-weight: 900;
+	font-size: 40px;
+
+}
 /* Heading Section */
 .titleheading {
 	background: url(./oceanbg1.jpeg) center center no-repeat;
@@ -131,7 +144,39 @@ ul li:hover a {
 	padding-right: 110px;
 	width: 90%;
 	float: left;
-	font-weight: bold;
+	font-weight: 500;
+	font-size: 16px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 150px;
+}
+
+/* Parallax Section 2*/
+.banner2 {
+	background-color: #2D9AB7;
+	height: 3000px;
+	background-repeat: no-repeat;
+	position: relative;
+}
+.parallax2 {
+	color: #FFFFFF;
+	text-align: left;
+	padding-top: 110px;
+	letter-spacing: 2px;
+	margin-top: 0px;
+	margin-left: 150px;
+	font-weight: 1000;
+}
+.parallax_description2 {
+	color: #FFFFFF;
+	display: inline-block;
+	text-align: left;
+	letter-spacing: 1px;
+	padding-right: 110px;
+	width: 90%;
+	float: left;
+	font-weight: 500;
 	font-size: 16px;
 	margin-top: 0px;
 	margin-right: 0px;

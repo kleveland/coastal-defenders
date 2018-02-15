@@ -155,14 +155,14 @@ ul li:hover a {
 /* Parallax Section 2*/
 .banner2 {
 	background-color: #2D9AB7;
-	height: 3000px;
+	height: 3200px;
 	background-repeat: no-repeat;
 	position: relative;
 }
 .parallax2 {
 	color: #FFFFFF;
 	text-align: left;
-	padding-top: 150px;
+	padding-top: 200px;
 	letter-spacing: 2px;
 	margin-top: 0px;
 	margin-left: 150px;

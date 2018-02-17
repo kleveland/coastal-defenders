@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -913181260, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastUpdatedAtString: 2018-02-17T09:27:58.6014696-05:00
+  lastVerifiedAtString: 2018-02-17T09:27:58.6145043-05:00
+  initializedAtString: 2018-02-17T09:21:38.7997266-05:00
+  gitConfigBranch:
+    name: unity
+    remote:
+      name: origin
+      url: https://github.com/kleveland/coastal-defenders.git
+  gitConfigRemote:
+    name: origin
+    url: https://github.com/kleveland/coastal-defenders.git
+  localBranches:
+  - name: master
+    tracking: '[None]'
+    isActive: 0
+  - name: unity
+    tracking: origin/unity
+    isActive: 1
+  remoteBranches:
+  - name: origin/coastal-defenders
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/master
+    tracking: '[None]'
+    isActive: 0
+  - name: origin/unity
+    tracking: '[None]'
+    isActive: 0
+  remotes:
+  - name: origin
+    url: https://github.com/kleveland/coastal-defenders.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - master
+    - unity
+    values:
+    - name: master
+      remote:
+        name: 
+        url: 
+    - name: unity
+      remote:
+        name: origin
+        url: https://github.com/kleveland/coastal-defenders.git
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - coastal-defenders
+      - master
+      - unity
+    subKeyValues:
+    - Values:
+      - name: coastal-defenders
+        remote:
+          name: origin
+          url: https://github.com/kleveland/coastal-defenders.git
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/kleveland/coastal-defenders.git
+      - name: unity
+        remote:
+          name: origin
+          url: https://github.com/kleveland/coastal-defenders.git
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/kleveland/coastal-defenders.git

@@ -1,0 +1,1758 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastUpdatedAtString: 2018-02-17T09:27:58.9574159-05:00
+  lastVerifiedAtString: 2018-02-17T09:27:58.9574159-05:00
+  initializedAtString: 2018-02-17T09:21:38.9596559-05:00
+  log:
+  - commitID: 0356b8c3022931161240409b83ea28a6fc8ac824
+    mergeA: 
+    mergeB: 
+    authorName: Kacey Cleveland
+    authorEmail: k1996@ad.unc.edu
+    commitEmail: k1996@ad.unc.edu
+    commitName: Kacey Cleveland
+    summary: Assets
+    description: Assets
+    timeString: 2018-02-17T09:27:57.0000000-05:00
+    commitTimeString: 2018-02-17T09:27:57.0000000-05:00
+    changes:
+    - path: Assets\Plugins.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\CREDITS.txt
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\CREDITS.txt
+      projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\DotNetHttp35.dll
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\DotNetHttp35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\DotNetHttp35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\DotNetHttp35.dll.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\DotNetHttp35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\DotNetHttp35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\EULA.txt
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\EULA.txt
+      projectPath: Assets\Plugins\GitHub\Editor\EULA.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\EULA.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Mono.Security.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Octokit.dll
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Octokit.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Octokit.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Octokit.dll.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Octokit.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Octokit.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 0a54574a25007f8b6a729062842eae7c7ecebcab
+    mergeA: 
+    mergeB: 
+    authorName: Kacey Cleveland
+    authorEmail: k1996@ad.unc.edu
+    commitEmail: k1996@ad.unc.edu
+    commitName: Kacey Cleveland
+    summary: commit for unity
+    description: "commit for unity\r\n\r\nunity initial files"
+    timeString: 2018-02-17T09:26:00.0000000-05:00
+    commitTimeString: 2018-02-17T09:26:00.0000000-05:00
+    changes:
+    - path: Library\LastSceneManagerSetup.txt
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ProjectSettings.asset
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\ProjectSettings.asset
+      projectPath: Library\ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\expandedItems
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 6a95cc3eadb6307b45c5ba7abbe7c38aa1a5d1e9
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-15T16:19:14.0000000-05:00
+    commitTimeString: 2018-02-15T16:19:14.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 626aa58f9db9bd6c945b276c3670fb04d3d85c00
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-15T16:15:43.0000000-05:00
+    commitTimeString: 2018-02-15T16:15:43.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: a0b59390b727734fdf7012c0a5e5e34066cb5e38
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-15T16:14:04.0000000-05:00
+    commitTimeString: 2018-02-15T16:14:04.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 156ce762c5ec9e9dcaaffb034bb3e1ab6599aaae
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-15T16:11:46.0000000-05:00
+    commitTimeString: 2018-02-15T16:11:46.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: f160ea2c50edc821580052983be6710f0d582b08
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-15T16:10:21.0000000-05:00
+    commitTimeString: 2018-02-15T16:10:21.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 10538265886936383e759869e1cc0a5da2b3ddf8
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-13T08:11:18.0000000-05:00
+    commitTimeString: 2018-02-13T08:11:18.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: c85ba86a239efa8394999617a10238d24d179eea
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-13T08:02:07.0000000-05:00
+    commitTimeString: 2018-02-13T08:02:07.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 083dffeb7b9a9fa0e72c44a5d140ddc5005c4fd6
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Add files via upload
+    description: Add files via upload
+    timeString: 2018-02-13T08:00:56.0000000-05:00
+    commitTimeString: 2018-02-13T08:00:56.0000000-05:00
+    changes:
+    - path: wireframe2.0.png
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\wireframe2.0.png
+      projectPath: wireframe2.0.png
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 73c1c21a6837d5e930c601adc9030c6450bb86ab
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Add files via upload
+    description: Add files via upload
+    timeString: 2018-02-13T08:00:30.0000000-05:00
+    commitTimeString: 2018-02-13T08:00:30.0000000-05:00
+    changes:
+    - path: WIREFRAME VERSION 2.0.png
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\WIREFRAME VERSION
+        2.0.png
+      projectPath: WIREFRAME VERSION 2.0.png
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: a68ebfda2b5a430226f26107c4d2fb9b6332b56f
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Delete wireframe2.0.png
+    description: Delete wireframe2.0.png
+    timeString: 2018-02-13T08:00:06.0000000-05:00
+    commitTimeString: 2018-02-13T08:00:06.0000000-05:00
+    changes:
+    - path: wireframe2.0.png
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\wireframe2.0.png
+      projectPath: wireframe2.0.png
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 315abbd79c48c4a8d7f68afb5c433e9fdd714da6
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Add files via upload
+    description: Add files via upload
+    timeString: 2018-02-12T00:12:27.0000000-05:00
+    commitTimeString: 2018-02-12T00:12:27.0000000-05:00
+    changes:
+    - path: design-document.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\design-document.html
+      projectPath: design-document.html
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: ab9022eec4c482c2ffdf1f53aaa67315fba584fa
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Delete design-document.html
+    description: Delete design-document.html
+    timeString: 2018-02-12T00:12:16.0000000-05:00
+    commitTimeString: 2018-02-12T00:12:16.0000000-05:00
+    changes:
+    - path: design-document.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\design-document.html
+      projectPath: design-document.html
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 092209e56eb03437df93409ce36b8266ac669021
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.html
+    description: Update index.html
+    timeString: 2018-02-12T00:07:40.0000000-05:00
+    commitTimeString: 2018-02-12T00:07:40.0000000-05:00
+    changes:
+    - path: index.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      projectPath: index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: bc7c4448e0624cadabcd251d04b2337f80fcf3e3
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update design-document.html
+    description: Update design-document.html
+    timeString: 2018-02-12T00:07:27.0000000-05:00
+    commitTimeString: 2018-02-12T00:07:27.0000000-05:00
+    changes:
+    - path: design-document.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\design-document.html
+      projectPath: design-document.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 0f5225af829c37e6a914bdc8228bd63b97b93cd1
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update design-document.html
+    description: Update design-document.html
+    timeString: 2018-02-12T00:07:04.0000000-05:00
+    commitTimeString: 2018-02-12T00:07:04.0000000-05:00
+    changes:
+    - path: design-document.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\design-document.html
+      projectPath: design-document.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 1cd5f090a7f13908f249fa354cb3c2234ec6e785
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.html
+    description: Update index.html
+    timeString: 2018-02-12T00:06:29.0000000-05:00
+    commitTimeString: 2018-02-12T00:06:29.0000000-05:00
+    changes:
+    - path: index.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      projectPath: index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 6920f091410cbd1ad55a59064f7c2f522bbd62ec
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update design-document.html
+    description: Update design-document.html
+    timeString: 2018-02-12T00:04:56.0000000-05:00
+    commitTimeString: 2018-02-12T00:04:56.0000000-05:00
+    changes:
+    - path: design-document.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\design-document.html
+      projectPath: design-document.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: fe1a9a7bbaddced907e0f8ae8ee62372d11b5912
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.html
+    description: Update index.html
+    timeString: 2018-02-12T00:03:48.0000000-05:00
+    commitTimeString: 2018-02-12T00:03:48.0000000-05:00
+    changes:
+    - path: index.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      projectPath: index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 4c89a9ae87cefd73bb066ea800b1cf27d13338ae
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Add files via upload
+    description: Add files via upload
+    timeString: 2018-02-12T00:02:48.0000000-05:00
+    commitTimeString: 2018-02-12T00:02:48.0000000-05:00
+    changes:
+    - path: design-document.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\design-document.html
+      projectPath: design-document.html
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: f2dd0b83b7a99ac27a49b372d7fc09f13c097036
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Add files via upload
+    description: Add files via upload
+    timeString: 2018-02-12T00:02:22.0000000-05:00
+    commitTimeString: 2018-02-12T00:02:22.0000000-05:00
+    changes:
+    - path: wireframe2.0.png
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\wireframe2.0.png
+      projectPath: wireframe2.0.png
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 120614f1ce5b8f92501c0b5011c0ac99343ff563
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.html
+    description: Update index.html
+    timeString: 2018-02-12T00:02:03.0000000-05:00
+    commitTimeString: 2018-02-12T00:02:03.0000000-05:00
+    changes:
+    - path: index.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      projectPath: index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: d482e198b803ed240df017bb084262f44c1f3a2a
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-12T00:01:21.0000000-05:00
+    commitTimeString: 2018-02-12T00:01:21.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: f37a861018eb5236b17bb2188b2d5b066122cfb0
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-09T11:59:56.0000000-05:00
+    commitTimeString: 2018-02-09T11:59:56.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 721f8a125060832ca6f68b29746f29ce5c7281df
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-09T11:58:07.0000000-05:00
+    commitTimeString: 2018-02-09T11:58:07.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 218821835beb3d803f7a5c5da657185493f60e3d
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-09T11:56:43.0000000-05:00
+    commitTimeString: 2018-02-09T11:56:43.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 76ab1ca73d34d045086809c53dc06ea8893eaa6a
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-09T11:56:00.0000000-05:00
+    commitTimeString: 2018-02-09T11:56:00.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: b014916393b637f327194ed24146605664e1dd01
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-09T11:54:59.0000000-05:00
+    commitTimeString: 2018-02-09T11:54:59.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 2be440e1e501db813852be282c197cc7b9d7317b
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-09T11:54:00.0000000-05:00
+    commitTimeString: 2018-02-09T11:54:00.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 52b27e942f0ae454a5decbfaf5f173a9ba658826
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-09T11:52:51.0000000-05:00
+    commitTimeString: 2018-02-09T11:52:51.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 33b0b1dd118da1c108f8918004f298f3ed92f32e
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-09T11:52:12.0000000-05:00
+    commitTimeString: 2018-02-09T11:52:12.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 47cf8018dc8c267ea0e9b3bfb0d4a788152c6d1a
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-09T11:51:26.0000000-05:00
+    commitTimeString: 2018-02-09T11:51:26.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 49197ee585a4b076c2f5ce2f93d4aa7c41d26805
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-09T11:50:52.0000000-05:00
+    commitTimeString: 2018-02-09T11:50:52.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: efeafbb0641654b39c9abfe6f8b48eecb6b8ba62
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-09T11:49:48.0000000-05:00
+    commitTimeString: 2018-02-09T11:49:48.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 62725a5056ef04ca897d3a2d1527e60c480f2f12
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-09T11:48:38.0000000-05:00
+    commitTimeString: 2018-02-09T11:48:38.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 2cd1d6a891398c3f862bd5721efa17e293c9b7c9
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-08T21:25:03.0000000-05:00
+    commitTimeString: 2018-02-08T21:25:03.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: b49cc2fea9b3ab46cc6f03cc43a0663823dec2bc
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-08T19:35:46.0000000-05:00
+    commitTimeString: 2018-02-08T19:35:46.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: fed9cd4921f125cacc011c8bcd1f087ddc86632e
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-08T19:34:14.0000000-05:00
+    commitTimeString: 2018-02-08T19:34:14.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 98ae517eb4ab883f4ccaa5c5f558141fc8160f8f
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-08T19:32:46.0000000-05:00
+    commitTimeString: 2018-02-08T19:32:46.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: bbc7ab3e976ae48952e49c5b6b1f7b572467a830
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-08T18:53:04.0000000-05:00
+    commitTimeString: 2018-02-08T18:53:04.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 0e9f828c8b897542e2f235f061a077fd0b29c6e4
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-08T18:51:11.0000000-05:00
+    commitTimeString: 2018-02-08T18:51:11.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 9ed07b7480c73ab209a4e5c9063e789b60c73ce2
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-08T18:50:27.0000000-05:00
+    commitTimeString: 2018-02-08T18:50:27.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 0978fcf53e480744e8bbfc6a4e554a226ebd6c08
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-08T18:49:31.0000000-05:00
+    commitTimeString: 2018-02-08T18:49:31.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 99b639d1ed6e6c6f6223925d6a7122dfc68f9aa0
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-08T18:42:17.0000000-05:00
+    commitTimeString: 2018-02-08T18:42:17.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: f375eb76d62857645bf2c063faa24adc60325929
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.html
+    description: Update index.html
+    timeString: 2018-02-08T18:40:57.0000000-05:00
+    commitTimeString: 2018-02-08T18:40:57.0000000-05:00
+    changes:
+    - path: index.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      projectPath: index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 000c71373ba267a30aebff8be6956e1284faa1e2
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.html
+    description: Update index.html
+    timeString: 2018-02-08T18:16:55.0000000-05:00
+    commitTimeString: 2018-02-08T18:16:55.0000000-05:00
+    changes:
+    - path: index.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      projectPath: index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 5c80868b51e4ddb295edbc7e7eb1cdd4819b5354
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.html
+    description: Update index.html
+    timeString: 2018-02-06T00:44:00.0000000-05:00
+    commitTimeString: 2018-02-06T00:44:00.0000000-05:00
+    changes:
+    - path: index.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      projectPath: index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: de5994173dbeab99c3fde7876cf9c85b90d96404
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.html
+    description: Update index.html
+    timeString: 2018-02-06T00:43:03.0000000-05:00
+    commitTimeString: 2018-02-06T00:43:03.0000000-05:00
+    changes:
+    - path: index.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      projectPath: index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 4594f45a6dd2dfc17fe2c0fffd7f01f0ecae7954
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.html
+    description: Update index.html
+    timeString: 2018-02-06T00:42:17.0000000-05:00
+    commitTimeString: 2018-02-06T00:42:17.0000000-05:00
+    changes:
+    - path: index.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      projectPath: index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 5bdf00f952d6a7bc70634c922d67600cc2399472
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-06T00:41:03.0000000-05:00
+    commitTimeString: 2018-02-06T00:41:03.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 95aeba6ddd93ca2d6a290d1d04febc6dad380501
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.html
+    description: Update index.html
+    timeString: 2018-02-06T00:40:27.0000000-05:00
+    commitTimeString: 2018-02-06T00:40:27.0000000-05:00
+    changes:
+    - path: index.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      projectPath: index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: dea9bc2d440e3eefe3e6ff7f7a1b23744d0f6fa1
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.html
+    description: Update index.html
+    timeString: 2018-02-06T00:39:34.0000000-05:00
+    commitTimeString: 2018-02-06T00:39:34.0000000-05:00
+    changes:
+    - path: index.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      projectPath: index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: c8a688e5cc028b4d8fd6edfd5bd54421755ec126
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.html
+    description: Update index.html
+    timeString: 2018-02-06T00:38:32.0000000-05:00
+    commitTimeString: 2018-02-06T00:38:32.0000000-05:00
+    changes:
+    - path: index.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      projectPath: index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 02f1e6213f27108394465e5c63408b266ed21272
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-06T00:37:52.0000000-05:00
+    commitTimeString: 2018-02-06T00:37:52.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: fe93c04e9df58828da38a427cde7adf34133ce08
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-06T00:36:09.0000000-05:00
+    commitTimeString: 2018-02-06T00:36:09.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: bf36aa3cfb9752026227d6bb8e0bd336cd683fd7
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Add files via upload
+    description: Add files via upload
+    timeString: 2018-02-06T00:34:11.0000000-05:00
+    commitTimeString: 2018-02-06T00:34:11.0000000-05:00
+    changes:
+    - path: oceanbg1.jpeg
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\oceanbg1.jpeg
+      projectPath: oceanbg1.jpeg
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: c0bfde68b7395e18033b3978fc58a9a36442353e
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Delete oceanbg1.jpg
+    description: Delete oceanbg1.jpg
+    timeString: 2018-02-06T00:33:52.0000000-05:00
+    commitTimeString: 2018-02-06T00:33:52.0000000-05:00
+    changes:
+    - path: oceanbg1.jpg
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\oceanbg1.jpg
+      projectPath: oceanbg1.jpg
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 1df90482fe30fb7b7a60c8114bd3d33bd710b747
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-06T00:33:41.0000000-05:00
+    commitTimeString: 2018-02-06T00:33:41.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 87d7f46cb97cbb292ae56fe96abd45b35fc33c7d
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-06T00:31:08.0000000-05:00
+    commitTimeString: 2018-02-06T00:31:08.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: bdd81ab32527213179036e7e97b76605560f1133
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-06T00:29:40.0000000-05:00
+    commitTimeString: 2018-02-06T00:29:40.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 9c2c7f9eefed924120f5f4118c66f5522c2edb6e
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Add files via upload
+    description: Add files via upload
+    timeString: 2018-02-06T00:28:37.0000000-05:00
+    commitTimeString: 2018-02-06T00:28:37.0000000-05:00
+    changes:
+    - path: oceanbg1.jpg
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\oceanbg1.jpg
+      projectPath: oceanbg1.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: b536e239a2aaad4d6675da685a630e4fd4b66d73
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Delete oceanbg.jpg
+    description: Delete oceanbg.jpg
+    timeString: 2018-02-06T00:28:12.0000000-05:00
+    commitTimeString: 2018-02-06T00:28:12.0000000-05:00
+    changes:
+    - path: oceanbg.jpg
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\oceanbg.jpg
+      projectPath: oceanbg.jpg
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: fde2fc20164b04468870db30b145dab47dca2dd0
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-06T00:26:20.0000000-05:00
+    commitTimeString: 2018-02-06T00:26:20.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: a9f1ecc0442a709e7d64357fad28c467421fae16
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.html
+    description: Update index.html
+    timeString: 2018-02-06T00:25:54.0000000-05:00
+    commitTimeString: 2018-02-06T00:25:54.0000000-05:00
+    changes:
+    - path: index.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      projectPath: index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 87a811f07c803f078942b146eaa0d2aee32b1255
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.html
+    description: Update index.html
+    timeString: 2018-02-06T00:24:55.0000000-05:00
+    commitTimeString: 2018-02-06T00:24:55.0000000-05:00
+    changes:
+    - path: index.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      projectPath: index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 26e0728939c7f015d1fdbc1a2ac088bae1c169e6
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.html
+    description: Update index.html
+    timeString: 2018-02-06T00:22:20.0000000-05:00
+    commitTimeString: 2018-02-06T00:22:20.0000000-05:00
+    changes:
+    - path: index.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      projectPath: index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 323b5ad5def7999db8e729165353f200ab492f21
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.html
+    description: Update index.html
+    timeString: 2018-02-06T00:20:20.0000000-05:00
+    commitTimeString: 2018-02-06T00:20:20.0000000-05:00
+    changes:
+    - path: index.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      projectPath: index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 9f1b3acc4553bf5102e4a9ce8aff78aa1432c54b
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Add files via upload
+    description: Add files via upload
+    timeString: 2018-02-06T00:16:17.0000000-05:00
+    commitTimeString: 2018-02-06T00:16:17.0000000-05:00
+    changes:
+    - path: oceanbg.jpg
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\oceanbg.jpg
+      projectPath: oceanbg.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 89dd479663c940ff7e04fc88a03a9d20dba94b44
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Delete oceanbg.jpg
+    description: Delete oceanbg.jpg
+    timeString: 2018-02-06T00:15:46.0000000-05:00
+    commitTimeString: 2018-02-06T00:15:46.0000000-05:00
+    changes:
+    - path: oceanbg.jpg
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\oceanbg.jpg
+      projectPath: oceanbg.jpg
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 3cba020bdf86a24711244c51faff369de7aaaaef
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update index.css
+    description: Update index.css
+    timeString: 2018-02-05T20:29:14.0000000-05:00
+    commitTimeString: 2018-02-05T20:29:14.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 843f8be46bea8da65a1fd9209b6b6bd7f8f2041c
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Delete oceanbg.jpeg
+    description: Delete oceanbg.jpeg
+    timeString: 2018-02-05T20:28:42.0000000-05:00
+    commitTimeString: 2018-02-05T20:28:42.0000000-05:00
+    changes:
+    - path: oceanbg.jpeg
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\oceanbg.jpeg
+      projectPath: oceanbg.jpeg
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: efce11de7ced6ece8e9943d716090ba07133caef
+    mergeA: 
+    mergeB: 
+    authorName: joeychau1
+    authorEmail: 34387739+joeychau1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Add files via upload
+    description: Add files via upload
+    timeString: 2018-02-05T20:28:11.0000000-05:00
+    commitTimeString: 2018-02-05T20:28:11.0000000-05:00
+    changes:
+    - path: oceanbg.jpg
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\oceanbg.jpg
+      projectPath: oceanbg.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 1a72580a082abf3baef1cf4239e1bdb2c95eeda5
+    mergeA: 
+    mergeB: 
+    authorName: Kacey Cleveland
+    authorEmail: kacey.job@gmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: initial files
+    description: initial files
+    timeString: 2018-01-28T14:29:55.0000000-05:00
+    commitTimeString: 2018-01-28T14:29:55.0000000-05:00
+    changes:
+    - path: index.css
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: index.html
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      projectPath: index.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: oceanbg.jpeg
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\oceanbg.jpeg
+      projectPath: oceanbg.jpeg
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 2d0392bbab92481c25be1efafa98836687392e8a
+    mergeA: 
+    mergeB: 
+    authorName: Sriganesh Gopal
+    authorEmail: sriganesh.iswar@gmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-01-24T16:02:00.0000000-05:00
+    commitTimeString: 2018-01-24T16:02:00.0000000-05:00
+    changes:
+    - path: README.md
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\README.md
+      projectPath: README.md
+      originalPath: 
+      status: 4
+      staged: 0

@@ -11,12 +11,12 @@ MonoBehaviour:
   m_Script: {fileID: 1109517887, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-02-19T20:21:20.4776531-05:00
-  lastVerifiedAtString: 2018-02-19T20:21:20.4776531-05:00
-  firstInitializedAtString: 2018-02-19T20:21:20.4431287-05:00
+  lastUpdatedAtString: 2018-02-19T23:28:32.0047039-05:00
+  lastVerifiedAtString: 2018-02-19T23:28:32.0047039-05:00
+  firstInitializedAtString: 2018-02-19T23:28:31.9636048-05:00
   gitRemote:
     name: origin
-    url: https://github.com/kleveland/coastal-defenders/
+    url: https://github.com/kleveland/coastal-defenders.git
     login: 
     user: 
     host: 

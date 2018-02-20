@@ -11,17 +11,17 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-02-17T09:28:11.2007142-05:00
-  lastVerifiedAtString: 2018-02-17T09:28:11.2092369-05:00
-  initializedAtString: 2018-02-17T09:21:38.7997266-05:00
+  lastUpdatedAtString: 2018-02-19T22:01:34.8444176-05:00
+  lastVerifiedAtString: 2018-02-19T22:01:34.8559254-05:00
+  initializedAtString: 2018-02-19T20:40:46.2589353-05:00
   gitConfigBranch:
     name: unity
     remote:
       name: origin
-      url: https://github.com/kleveland/coastal-defenders.git
+      url: https://github.com/kleveland/coastal-defenders/
   gitConfigRemote:
     name: origin
-    url: https://github.com/kleveland/coastal-defenders.git
+    url: https://github.com/kleveland/coastal-defenders/
   localBranches:
   - name: master
     tracking: '[None]'
@@ -41,7 +41,7 @@ MonoBehaviour:
     isActive: 0
   remotes:
   - name: origin
-    url: https://github.com/kleveland/coastal-defenders.git
+    url: https://github.com/kleveland/coastal-defenders/
     login: 
     user: 
     host: 
@@ -59,7 +59,7 @@ MonoBehaviour:
     - name: unity
       remote:
         name: origin
-        url: https://github.com/kleveland/coastal-defenders.git
+        url: https://github.com/kleveland/coastal-defenders/
   remoteConfigBranches:
     keys:
     - origin
@@ -73,18 +73,18 @@ MonoBehaviour:
       - name: coastal-defenders
         remote:
           name: origin
-          url: https://github.com/kleveland/coastal-defenders.git
+          url: https://github.com/kleveland/coastal-defenders/
       - name: master
         remote:
           name: origin
-          url: https://github.com/kleveland/coastal-defenders.git
+          url: https://github.com/kleveland/coastal-defenders/
       - name: unity
         remote:
           name: origin
-          url: https://github.com/kleveland/coastal-defenders.git
+          url: https://github.com/kleveland/coastal-defenders/
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/kleveland/coastal-defenders.git
+      url: https://github.com/kleveland/coastal-defenders/

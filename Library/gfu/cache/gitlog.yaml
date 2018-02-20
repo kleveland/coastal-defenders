@@ -11,10 +11,2369 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-02-17T09:27:58.9574159-05:00
-  lastVerifiedAtString: 2018-02-17T09:27:58.9574159-05:00
-  initializedAtString: 2018-02-17T09:21:38.9596559-05:00
+  lastUpdatedAtString: 2018-02-19T22:01:34.9832294-05:00
+  lastVerifiedAtString: 2018-02-19T22:01:34.9832294-05:00
+  initializedAtString: 2018-02-19T20:40:46.4730878-05:00
   log:
+  - commitID: 9f5c7e69907e035447f78f4e30798bd950d977a7
+    mergeA: 
+    mergeB: 
+    authorName: Kacey Cleveland
+    authorEmail: k1996@ad.unc.edu
+    commitEmail: k1996@ad.unc.edu
+    commitName: Kacey Cleveland
+    summary: added game scenes
+    description: "added game scenes\r\n\r\ngame scenes added"
+    timeString: 2018-02-19T16:27:25.0000000-05:00
+    commitTimeString: 2018-02-19T16:27:25.0000000-05:00
+    changes:
+    - path: Assets\difficultyselect.unity
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\difficultyselect.unity
+      projectPath: Assets\difficultyselect.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\gamescreen.unity
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\gamescreen.unity
+      projectPath: Assets\gamescreen.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\howtoplay.unity
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\howtoplay.unity
+      projectPath: Assets\howtoplay.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\leaderboard.unity
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\leaderboard.unity
+      projectPath: Assets\leaderboard.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\mainmenu.unity
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\mainmenu.unity
+      projectPath: Assets\mainmenu.unity
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 3e4678dbe7ece2b5d56e38c92c64950c03d3d484
+    mergeA: 
+    mergeB: 
+    authorName: Kacey Cleveland
+    authorEmail: k1996@ad.unc.edu
+    commitEmail: k1996@ad.unc.edu
+    commitName: Kacey Cleveland
+    summary: Remove website files
+    description: Remove website files
+    timeString: 2018-02-17T09:31:05.0000000-05:00
+    commitTimeString: 2018-02-17T09:31:05.0000000-05:00
+    changes:
+    - path: README.md
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\README.md
+      projectPath: README.md
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: WIREFRAME VERSION 2.0.png
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\WIREFRAME
+        VERSION 2.0.png
+      projectPath: WIREFRAME VERSION 2.0.png
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: design-document.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\design-document.html
+      projectPath: design-document.html
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
+      projectPath: index.css
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: index.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.html
+      projectPath: index.html
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: oceanbg1.jpeg
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\oceanbg1.jpeg
+      projectPath: oceanbg1.jpeg
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: wireframe2.0.png
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\wireframe2.0.png
+      projectPath: wireframe2.0.png
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 33c5d4f5e22dfcc4b70a1c392505299b29d08140
+    mergeA: 
+    mergeB: 
+    authorName: Kacey Cleveland
+    authorEmail: k1996@ad.unc.edu
+    commitEmail: k1996@ad.unc.edu
+    commitName: Kacey Cleveland
+    summary: Package Manager
+    description: Package Manager
+    timeString: 2018-02-17T09:29:07.0000000-05:00
+    commitTimeString: 2018-02-17T09:29:07.0000000-05:00
+    changes:
+    - path: UnityPackageManager\manifest.json
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\UnityPackageManager\manifest.json
+      projectPath: UnityPackageManager\manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 706c523b37789ccaf75534e756123693ad3a5093
+    mergeA: 
+    mergeB: 
+    authorName: Kacey Cleveland
+    authorEmail: k1996@ad.unc.edu
+    commitEmail: k1996@ad.unc.edu
+    commitName: Kacey Cleveland
+    summary: Project Settings
+    description: Project Settings
+    timeString: 2018-02-17T09:28:49.0000000-05:00
+    commitTimeString: 2018-02-17T09:28:49.0000000-05:00
+    changes:
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 4de33843e213baaf132eb49a0253409a87d457bd
+    mergeA: 
+    mergeB: 
+    authorName: Kacey Cleveland
+    authorEmail: k1996@ad.unc.edu
+    commitEmail: k1996@ad.unc.edu
+    commitName: Kacey Cleveland
+    summary: 'Library #2'
+    description: "Library #2\r\n\r\nLibrary"
+    timeString: 2018-02-17T09:28:39.0000000-05:00
+    commitTimeString: 2018-02-17T09:28:39.0000000-05:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 39628515184e864ae39880b3a469474f9ecbbf88
+    mergeA: 
+    mergeB: 
+    authorName: Kacey Cleveland
+    authorEmail: k1996@ad.unc.edu
+    commitEmail: k1996@ad.unc.edu
+    commitName: Kacey Cleveland
+    summary: Library
+    description: Library
+    timeString: 2018-02-17T09:28:10.0000000-05:00
+    commitTimeString: 2018-02-17T09:28:10.0000000-05:00
+    changes:
+    - path: Library\AnnotationManager
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\AnnotationManager
+      projectPath: Library\AnnotationManager
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\AssetImportState
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\AssetImportState
+      projectPath: Library\AssetImportState
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\BuildPlayer.prefs
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\BuildPlayer.prefs
+      projectPath: Library\BuildPlayer.prefs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\BuildSettings.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\BuildSettings.asset
+      projectPath: Library\BuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\EditorInstance.json
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\EditorUserBuildSettings.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\EditorUserBuildSettings.asset
+      projectPath: Library\EditorUserBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\EditorUserSettings.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\EditorUserSettings.asset
+      projectPath: Library\EditorUserSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\LibraryFormatVersion.txt
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\LibraryFormatVersion.txt
+      projectPath: Library\LibraryFormatVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\MonoManager.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\MonoManager.asset
+      projectPath: Library\MonoManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ScriptMapper
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\ScriptMapper
+      projectPath: Library\ScriptMapper
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\2\2506cc1744df364cfed92d3305f307dc.bin
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\ShaderCache\2\2506cc1744df364cfed92d3305f307dc.bin
+      projectPath: Library\ShaderCache\2\2506cc1744df364cfed92d3305f307dc.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\3\303cafc81dadaed5bb0d6944d29972b0.bin
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\ShaderCache\3\303cafc81dadaed5bb0d6944d29972b0.bin
+      projectPath: Library\ShaderCache\3\303cafc81dadaed5bb0d6944d29972b0.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\3\3d3ae902e0c3bf89c784c0f0e22fd76e.bin
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\ShaderCache\3\3d3ae902e0c3bf89c784c0f0e22fd76e.bin
+      projectPath: Library\ShaderCache\3\3d3ae902e0c3bf89c784c0f0e22fd76e.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\5\5fc1a73df3e7412b1918712426388655.bin
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\ShaderCache\5\5fc1a73df3e7412b1918712426388655.bin
+      projectPath: Library\ShaderCache\5\5fc1a73df3e7412b1918712426388655.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\8\82ad14a10b072134a00f2efbbcdd9505.bin
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\ShaderCache\8\82ad14a10b072134a00f2efbbcdd9505.bin
+      projectPath: Library\ShaderCache\8\82ad14a10b072134a00f2efbbcdd9505.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\9\919876937b76b8a0851cc42257a676dd.bin
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\ShaderCache\9\919876937b76b8a0851cc42257a676dd.bin
+      projectPath: Library\ShaderCache\9\919876937b76b8a0851cc42257a676dd.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\SpriteAtlasDatabase.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\SpriteAtlasDatabase.asset
+      projectPath: Library\SpriteAtlasDatabase.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\TilemapEditorUserSettings.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\TilemapEditorUserSettings.asset
+      projectPath: Library\TilemapEditorUserSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000001000000000000000
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000001000000000000000
+      projectPath: Library\metadata\00\00000000000000001000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000001000000000000000.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000001000000000000000.info
+      projectPath: Library\metadata\00\00000000000000001000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000002000000000000000
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000002000000000000000
+      projectPath: Library\metadata\00\00000000000000002000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000002000000000000000.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000002000000000000000.info
+      projectPath: Library\metadata\00\00000000000000002000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000003000000000000000
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000003000000000000000
+      projectPath: Library\metadata\00\00000000000000003000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000003000000000000000.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000003000000000000000.info
+      projectPath: Library\metadata\00\00000000000000003000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000004000000000000000
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000004000000000000000
+      projectPath: Library\metadata\00\00000000000000004000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000004000000000000000.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000004000000000000000.info
+      projectPath: Library\metadata\00\00000000000000004000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000004100000000000000
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000004100000000000000
+      projectPath: Library\metadata\00\00000000000000004100000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000004100000000000000.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000004100000000000000.info
+      projectPath: Library\metadata\00\00000000000000004100000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000005000000000000000
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000005000000000000000
+      projectPath: Library\metadata\00\00000000000000005000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000005000000000000000.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000005000000000000000.info
+      projectPath: Library\metadata\00\00000000000000005000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000005100000000000000
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000005100000000000000
+      projectPath: Library\metadata\00\00000000000000005100000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000005100000000000000.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000005100000000000000.info
+      projectPath: Library\metadata\00\00000000000000005100000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000006000000000000000
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000006000000000000000
+      projectPath: Library\metadata\00\00000000000000006000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000006000000000000000.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000006000000000000000.info
+      projectPath: Library\metadata\00\00000000000000006000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000006100000000000000
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000006100000000000000
+      projectPath: Library\metadata\00\00000000000000006100000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000006100000000000000.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000006100000000000000.info
+      projectPath: Library\metadata\00\00000000000000006100000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000007000000000000000
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000007000000000000000
+      projectPath: Library\metadata\00\00000000000000007000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000007000000000000000.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000007000000000000000.info
+      projectPath: Library\metadata\00\00000000000000007000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000007100000000000000
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000007100000000000000
+      projectPath: Library\metadata\00\00000000000000007100000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000007100000000000000.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000007100000000000000.info
+      projectPath: Library\metadata\00\00000000000000007100000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000008000000000000000
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000008000000000000000
+      projectPath: Library\metadata\00\00000000000000008000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000008000000000000000.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000008000000000000000.info
+      projectPath: Library\metadata\00\00000000000000008000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000009000000000000000
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000009000000000000000
+      projectPath: Library\metadata\00\00000000000000009000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\00000000000000009000000000000000.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\00000000000000009000000000000000.info
+      projectPath: Library\metadata\00\00000000000000009000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\0000000000000000a000000000000000
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\0000000000000000a000000000000000
+      projectPath: Library\metadata\00\0000000000000000a000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\0000000000000000a000000000000000.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\0000000000000000a000000000000000.info
+      projectPath: Library\metadata\00\0000000000000000a000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\0000000000000000a100000000000000
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\0000000000000000a100000000000000
+      projectPath: Library\metadata\00\0000000000000000a100000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\0000000000000000a100000000000000.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\0000000000000000a100000000000000.info
+      projectPath: Library\metadata\00\0000000000000000a100000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\0000000000000000b000000000000000
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\0000000000000000b000000000000000
+      projectPath: Library\metadata\00\0000000000000000b000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\0000000000000000b000000000000000.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\0000000000000000b000000000000000.info
+      projectPath: Library\metadata\00\0000000000000000b000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\0000000000000000c000000000000000
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\0000000000000000c000000000000000
+      projectPath: Library\metadata\00\0000000000000000c000000000000000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\0000000000000000c000000000000000.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\0000000000000000c000000000000000.info
+      projectPath: Library\metadata\00\0000000000000000c000000000000000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\0066b0363b794f049b991bda4fc94f7e
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\0066b0363b794f049b991bda4fc94f7e
+      projectPath: Library\metadata\00\0066b0363b794f049b991bda4fc94f7e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\00\0066b0363b794f049b991bda4fc94f7e.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\00\0066b0363b794f049b991bda4fc94f7e.info
+      projectPath: Library\metadata\00\0066b0363b794f049b991bda4fc94f7e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\02\024996ebf4ecc5048b7c2fb5ef979259
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\02\024996ebf4ecc5048b7c2fb5ef979259
+      projectPath: Library\metadata\02\024996ebf4ecc5048b7c2fb5ef979259
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\02\024996ebf4ecc5048b7c2fb5ef979259.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\02\024996ebf4ecc5048b7c2fb5ef979259.info
+      projectPath: Library\metadata\02\024996ebf4ecc5048b7c2fb5ef979259.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\03\035b38d15eb9bf74f88aa90f2bd3f323
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\03\035b38d15eb9bf74f88aa90f2bd3f323
+      projectPath: Library\metadata\03\035b38d15eb9bf74f88aa90f2bd3f323
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\03\035b38d15eb9bf74f88aa90f2bd3f323.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\03\035b38d15eb9bf74f88aa90f2bd3f323.info
+      projectPath: Library\metadata\03\035b38d15eb9bf74f88aa90f2bd3f323.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\06\0621b4aab2236437592f1f292cb81d20
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\06\0621b4aab2236437592f1f292cb81d20
+      projectPath: Library\metadata\06\0621b4aab2236437592f1f292cb81d20
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\06\0621b4aab2236437592f1f292cb81d20.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\06\0621b4aab2236437592f1f292cb81d20.info
+      projectPath: Library\metadata\06\0621b4aab2236437592f1f292cb81d20.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+      projectPath: Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\0d\0d3bb855445e36e479c85976fc88383a.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a.info
+      projectPath: Library\metadata\0d\0d3bb855445e36e479c85976fc88383a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\10\10bf81265ad87424d946598c575f45a0
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\10\10bf81265ad87424d946598c575f45a0
+      projectPath: Library\metadata\10\10bf81265ad87424d946598c575f45a0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\10\10bf81265ad87424d946598c575f45a0.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\10\10bf81265ad87424d946598c575f45a0.info
+      projectPath: Library\metadata\10\10bf81265ad87424d946598c575f45a0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\11\11043fc3a881495409d0828a9dcb372e
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\11\11043fc3a881495409d0828a9dcb372e
+      projectPath: Library\metadata\11\11043fc3a881495409d0828a9dcb372e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\11\11043fc3a881495409d0828a9dcb372e.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\11\11043fc3a881495409d0828a9dcb372e.info
+      projectPath: Library\metadata\11\11043fc3a881495409d0828a9dcb372e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+      projectPath: Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333.info
+      projectPath: Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\13\1322fd896bbb15bb6e335591b766ae62
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\13\1322fd896bbb15bb6e335591b766ae62
+      projectPath: Library\metadata\13\1322fd896bbb15bb6e335591b766ae62
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\13\1322fd896bbb15bb6e335591b766ae62.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\13\1322fd896bbb15bb6e335591b766ae62.info
+      projectPath: Library\metadata\13\1322fd896bbb15bb6e335591b766ae62.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\13\136dc24f151211d438acee17aff4e934
+      projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\15\15be9c691b85a41a39c18beeff87e21b
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\15\15be9c691b85a41a39c18beeff87e21b
+      projectPath: Library\metadata\15\15be9c691b85a41a39c18beeff87e21b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\15\15be9c691b85a41a39c18beeff87e21b.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\15\15be9c691b85a41a39c18beeff87e21b.info
+      projectPath: Library\metadata\15\15be9c691b85a41a39c18beeff87e21b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\15\15bf9c691b85b41a39c18bee2f87e21b
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\15\15bf9c691b85b41a39c18bee2f87e21b
+      projectPath: Library\metadata\15\15bf9c691b85b41a39c18bee2f87e21b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\15\15bf9c691b85b41a39c18bee2f87e21b.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\15\15bf9c691b85b41a39c18bee2f87e21b.info
+      projectPath: Library\metadata\15\15bf9c691b85b41a39c18bee2f87e21b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\18\18eb894d53ff491408b69602eb959000
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\18\18eb894d53ff491408b69602eb959000
+      projectPath: Library\metadata\18\18eb894d53ff491408b69602eb959000
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\18\18eb894d53ff491408b69602eb959000.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\18\18eb894d53ff491408b69602eb959000.info
+      projectPath: Library\metadata\18\18eb894d53ff491408b69602eb959000.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\1b\1b32bcce201b4494ea8848326290c5d5
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\1b\1b32bcce201b4494ea8848326290c5d5
+      projectPath: Library\metadata\1b\1b32bcce201b4494ea8848326290c5d5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\1b\1b32bcce201b4494ea8848326290c5d5.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\1b\1b32bcce201b4494ea8848326290c5d5.info
+      projectPath: Library\metadata\1b\1b32bcce201b4494ea8848326290c5d5.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
+      projectPath: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
+      projectPath: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+      projectPath: Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77.info
+      projectPath: Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+      projectPath: Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1.info
+      projectPath: Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\22\220224b43fc464c28bc0e8de8f54a432
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\22\220224b43fc464c28bc0e8de8f54a432
+      projectPath: Library\metadata\22\220224b43fc464c28bc0e8de8f54a432
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\22\220224b43fc464c28bc0e8de8f54a432.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\22\220224b43fc464c28bc0e8de8f54a432.info
+      projectPath: Library\metadata\22\220224b43fc464c28bc0e8de8f54a432.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\22\224ede67b4f3a4109bfec4d5cb161b05
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\22\224ede67b4f3a4109bfec4d5cb161b05
+      projectPath: Library\metadata\22\224ede67b4f3a4109bfec4d5cb161b05
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\22\224ede67b4f3a4109bfec4d5cb161b05.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\22\224ede67b4f3a4109bfec4d5cb161b05.info
+      projectPath: Library\metadata\22\224ede67b4f3a4109bfec4d5cb161b05.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\23\23c8bee69b591054094d32918f98facd
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\23\23c8bee69b591054094d32918f98facd
+      projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+      projectPath: Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\26\2682a692a2be7e14e901a738c7806da0.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\26\2682a692a2be7e14e901a738c7806da0.info
+      projectPath: Library\metadata\26\2682a692a2be7e14e901a738c7806da0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\2d\2d4d46c70fdd242668a56e99799e8540
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\2d\2d4d46c70fdd242668a56e99799e8540
+      projectPath: Library\metadata\2d\2d4d46c70fdd242668a56e99799e8540
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\2d\2d4d46c70fdd242668a56e99799e8540.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\2d\2d4d46c70fdd242668a56e99799e8540.info
+      projectPath: Library\metadata\2d\2d4d46c70fdd242668a56e99799e8540.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\2e\2eb6d10c09cc2d0468e3c2daee8caaa6
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\2e\2eb6d10c09cc2d0468e3c2daee8caaa6
+      projectPath: Library\metadata\2e\2eb6d10c09cc2d0468e3c2daee8caaa6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\2e\2eb6d10c09cc2d0468e3c2daee8caaa6.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\2e\2eb6d10c09cc2d0468e3c2daee8caaa6.info
+      projectPath: Library\metadata\2e\2eb6d10c09cc2d0468e3c2daee8caaa6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
+      projectPath: Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5.info
+      projectPath: Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\30\305ed3a308ff83f4398f939e7c29d1b0
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\30\305ed3a308ff83f4398f939e7c29d1b0
+      projectPath: Library\metadata\30\305ed3a308ff83f4398f939e7c29d1b0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\30\305ed3a308ff83f4398f939e7c29d1b0.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\30\305ed3a308ff83f4398f939e7c29d1b0.info
+      projectPath: Library\metadata\30\305ed3a308ff83f4398f939e7c29d1b0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+      projectPath: Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\32\32188fd89022c154c81befa2f0e00be0.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\32\32188fd89022c154c81befa2f0e00be0.info
+      projectPath: Library\metadata\32\32188fd89022c154c81befa2f0e00be0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+      projectPath: Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9.info
+      projectPath: Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d
+      projectPath: Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d.info
+      projectPath: Library\metadata\36\36e8bb3feb5e6402185947b817a6ed8d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
+      projectPath: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
+      projectPath: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+      projectPath: Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc.info
+      projectPath: Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+      projectPath: Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a.info
+      projectPath: Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\3c\3cebe1a96232b44388b30b2f72dde434
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\3c\3cebe1a96232b44388b30b2f72dde434
+      projectPath: Library\metadata\3c\3cebe1a96232b44388b30b2f72dde434
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\3c\3cebe1a96232b44388b30b2f72dde434.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\3c\3cebe1a96232b44388b30b2f72dde434.info
+      projectPath: Library\metadata\3c\3cebe1a96232b44388b30b2f72dde434.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\40\405b9b51bb344a128608d968297df79c
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\40\405b9b51bb344a128608d968297df79c
+      projectPath: Library\metadata\40\405b9b51bb344a128608d968297df79c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\40\405b9b51bb344a128608d968297df79c.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\40\405b9b51bb344a128608d968297df79c.info
+      projectPath: Library\metadata\40\405b9b51bb344a128608d968297df79c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+      projectPath: Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\41\4113173d5e95493ab8765d7b08371de4.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\41\4113173d5e95493ab8765d7b08371de4.info
+      projectPath: Library\metadata\41\4113173d5e95493ab8765d7b08371de4.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\44\44f39a74ca5ee4bf5936b17e901f251c
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\44\44f39a74ca5ee4bf5936b17e901f251c
+      projectPath: Library\metadata\44\44f39a74ca5ee4bf5936b17e901f251c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\44\44f39a74ca5ee4bf5936b17e901f251c.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\44\44f39a74ca5ee4bf5936b17e901f251c.info
+      projectPath: Library\metadata\44\44f39a74ca5ee4bf5936b17e901f251c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\45\453f100e6bdae4dfd9e655927819dc85
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\45\453f100e6bdae4dfd9e655927819dc85
+      projectPath: Library\metadata\45\453f100e6bdae4dfd9e655927819dc85
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\45\453f100e6bdae4dfd9e655927819dc85.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\45\453f100e6bdae4dfd9e655927819dc85.info
+      projectPath: Library\metadata\45\453f100e6bdae4dfd9e655927819dc85.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6
+      projectPath: Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6.info
+      projectPath: Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
+      projectPath: Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677.info
+      projectPath: Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+      projectPath: Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70.info
+      projectPath: Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+      projectPath: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8.info
+      projectPath: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+      projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f.info
+      projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\4c\4c6fe94acbb24417c988bab18cbd5209
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\4c\4c6fe94acbb24417c988bab18cbd5209
+      projectPath: Library\metadata\4c\4c6fe94acbb24417c988bab18cbd5209
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\4c\4c6fe94acbb24417c988bab18cbd5209.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\4c\4c6fe94acbb24417c988bab18cbd5209.info
+      projectPath: Library\metadata\4c\4c6fe94acbb24417c988bab18cbd5209.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\4e\4e7c9ab97e5884e4eaa5967e9024f39c
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\4e\4e7c9ab97e5884e4eaa5967e9024f39c
+      projectPath: Library\metadata\4e\4e7c9ab97e5884e4eaa5967e9024f39c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\4e\4e7c9ab97e5884e4eaa5967e9024f39c.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\4e\4e7c9ab97e5884e4eaa5967e9024f39c.info
+      projectPath: Library\metadata\4e\4e7c9ab97e5884e4eaa5967e9024f39c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\4f\4f234578336894dc081edf696f2ff5f2
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\4f\4f234578336894dc081edf696f2ff5f2
+      projectPath: Library\metadata\4f\4f234578336894dc081edf696f2ff5f2
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\4f\4f234578336894dc081edf696f2ff5f2.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\4f\4f234578336894dc081edf696f2ff5f2.info
+      projectPath: Library\metadata\4f\4f234578336894dc081edf696f2ff5f2.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\51\510d1d319d2754ea4a47c6dd8c421ea0
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\51\510d1d319d2754ea4a47c6dd8c421ea0
+      projectPath: Library\metadata\51\510d1d319d2754ea4a47c6dd8c421ea0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\51\510d1d319d2754ea4a47c6dd8c421ea0.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\51\510d1d319d2754ea4a47c6dd8c421ea0.info
+      projectPath: Library\metadata\51\510d1d319d2754ea4a47c6dd8c421ea0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+      projectPath: Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\51\517af1b5b81b93b43b9745d58f017562.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\51\517af1b5b81b93b43b9745d58f017562.info
+      projectPath: Library\metadata\51\517af1b5b81b93b43b9745d58f017562.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+      projectPath: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+      projectPath: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+      projectPath: Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc.info
+      projectPath: Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\59\598f7cc167e65424284e573aff0f1294
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\59\598f7cc167e65424284e573aff0f1294
+      projectPath: Library\metadata\59\598f7cc167e65424284e573aff0f1294
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
+      projectPath: Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+      projectPath: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7.info
+      projectPath: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\62\62772aad98ed04f0d955b7d20de61f7f
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\62\62772aad98ed04f0d955b7d20de61f7f
+      projectPath: Library\metadata\62\62772aad98ed04f0d955b7d20de61f7f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\62\62772aad98ed04f0d955b7d20de61f7f.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\62\62772aad98ed04f0d955b7d20de61f7f.info
+      projectPath: Library\metadata\62\62772aad98ed04f0d955b7d20de61f7f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\65\6597c6ea86d36477081342001145d8d9
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\65\6597c6ea86d36477081342001145d8d9
+      projectPath: Library\metadata\65\6597c6ea86d36477081342001145d8d9
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\65\6597c6ea86d36477081342001145d8d9.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\65\6597c6ea86d36477081342001145d8d9.info
+      projectPath: Library\metadata\65\6597c6ea86d36477081342001145d8d9.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\66\66da555d9ce961d448d026ba0354ee79
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\66\66da555d9ce961d448d026ba0354ee79
+      projectPath: Library\metadata\66\66da555d9ce961d448d026ba0354ee79
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\66\66da555d9ce961d448d026ba0354ee79.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\66\66da555d9ce961d448d026ba0354ee79.info
+      projectPath: Library\metadata\66\66da555d9ce961d448d026ba0354ee79.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
+      projectPath: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
+      projectPath: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\69\6981461fe431401459211818212a29cf
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\69\6981461fe431401459211818212a29cf
+      projectPath: Library\metadata\69\6981461fe431401459211818212a29cf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\69\6981461fe431401459211818212a29cf.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\69\6981461fe431401459211818212a29cf.info
+      projectPath: Library\metadata\69\6981461fe431401459211818212a29cf.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+      projectPath: Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5.info
+      projectPath: Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\6e\6e7c8cfeedae74eb3a562055e069e441
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\6e\6e7c8cfeedae74eb3a562055e069e441
+      projectPath: Library\metadata\6e\6e7c8cfeedae74eb3a562055e069e441
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\6e\6e7c8cfeedae74eb3a562055e069e441.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\6e\6e7c8cfeedae74eb3a562055e069e441.info
+      projectPath: Library\metadata\6e\6e7c8cfeedae74eb3a562055e069e441.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\6e\6e87793d490a7e24ab628393bde4e032
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\6e\6e87793d490a7e24ab628393bde4e032
+      projectPath: Library\metadata\6e\6e87793d490a7e24ab628393bde4e032
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\6e\6e87793d490a7e24ab628393bde4e032.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\6e\6e87793d490a7e24ab628393bde4e032.info
+      projectPath: Library\metadata\6e\6e87793d490a7e24ab628393bde4e032.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
+      projectPath: Library\metadata\75\75799de484ac4f4cadc268d2cbea830a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\75\75799de484ac4f4cadc268d2cbea830a.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\75\75799de484ac4f4cadc268d2cbea830a.info
+      projectPath: Library\metadata\75\75799de484ac4f4cadc268d2cbea830a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\76\76349cec627454d3a80423a2eeaf0e63
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\76\76349cec627454d3a80423a2eeaf0e63
+      projectPath: Library\metadata\76\76349cec627454d3a80423a2eeaf0e63
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\76\76349cec627454d3a80423a2eeaf0e63.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\76\76349cec627454d3a80423a2eeaf0e63.info
+      projectPath: Library\metadata\76\76349cec627454d3a80423a2eeaf0e63.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+      projectPath: Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\76\7668179ede524d6396c8b7d84461ea29.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\76\7668179ede524d6396c8b7d84461ea29.info
+      projectPath: Library\metadata\76\7668179ede524d6396c8b7d84461ea29.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec
+      projectPath: Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec.info
+      projectPath: Library\metadata\79\7927683d1fc5848b5abfb54ebb1028ec.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\7c\7c3a5d6e39b874f468b2691537168513
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\7c\7c3a5d6e39b874f468b2691537168513
+      projectPath: Library\metadata\7c\7c3a5d6e39b874f468b2691537168513
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\7c\7c3a5d6e39b874f468b2691537168513.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\7c\7c3a5d6e39b874f468b2691537168513.info
+      projectPath: Library\metadata\7c\7c3a5d6e39b874f468b2691537168513.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\7f\7fd5e77e7e7ea4eea8198138cd9cc814
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\7f\7fd5e77e7e7ea4eea8198138cd9cc814
+      projectPath: Library\metadata\7f\7fd5e77e7e7ea4eea8198138cd9cc814
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\7f\7fd5e77e7e7ea4eea8198138cd9cc814.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\7f\7fd5e77e7e7ea4eea8198138cd9cc814.info
+      projectPath: Library\metadata\7f\7fd5e77e7e7ea4eea8198138cd9cc814.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+      projectPath: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f.info
+      projectPath: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+      projectPath: Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\84\844f815391db42d49455cbf1a7bfc434.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\84\844f815391db42d49455cbf1a7bfc434.info
+      projectPath: Library\metadata\84\844f815391db42d49455cbf1a7bfc434.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\84\84aec3c9054b3402293139f2c0bc1029
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\84\84aec3c9054b3402293139f2c0bc1029
+      projectPath: Library\metadata\84\84aec3c9054b3402293139f2c0bc1029
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\84\84aec3c9054b3402293139f2c0bc1029.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\84\84aec3c9054b3402293139f2c0bc1029.info
+      projectPath: Library\metadata\84\84aec3c9054b3402293139f2c0bc1029.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
+      projectPath: Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390.info
+      projectPath: Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\86\86c008322e7c647149878156c5b81940
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\86\86c008322e7c647149878156c5b81940
+      projectPath: Library\metadata\86\86c008322e7c647149878156c5b81940
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\86\86c008322e7c647149878156c5b81940.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\86\86c008322e7c647149878156c5b81940.info
+      projectPath: Library\metadata\86\86c008322e7c647149878156c5b81940.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\86\86c18994495874297b469aaa57ef9b44
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\86\86c18994495874297b469aaa57ef9b44
+      projectPath: Library\metadata\86\86c18994495874297b469aaa57ef9b44
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\86\86c18994495874297b469aaa57ef9b44.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\86\86c18994495874297b469aaa57ef9b44.info
+      projectPath: Library\metadata\86\86c18994495874297b469aaa57ef9b44.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+      projectPath: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba.info
+      projectPath: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\87\8789cac4aa23ff04a8b604fae48538df
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\87\8789cac4aa23ff04a8b604fae48538df
+      projectPath: Library\metadata\87\8789cac4aa23ff04a8b604fae48538df
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\87\8789cac4aa23ff04a8b604fae48538df.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\87\8789cac4aa23ff04a8b604fae48538df.info
+      projectPath: Library\metadata\87\8789cac4aa23ff04a8b604fae48538df.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\88\884f8f0e4025a420893d3a8d1d3063e1
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\88\884f8f0e4025a420893d3a8d1d3063e1
+      projectPath: Library\metadata\88\884f8f0e4025a420893d3a8d1d3063e1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\88\884f8f0e4025a420893d3a8d1d3063e1.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\88\884f8f0e4025a420893d3a8d1d3063e1.info
+      projectPath: Library\metadata\88\884f8f0e4025a420893d3a8d1d3063e1.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+      projectPath: Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe.info
+      projectPath: Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+      projectPath: Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\90\9078b7128e594410d9b89e5b24cffd01.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01.info
+      projectPath: Library\metadata\90\9078b7128e594410d9b89e5b24cffd01.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\90\90791303b72ec4ae198f99d637dfdf6c
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\90\90791303b72ec4ae198f99d637dfdf6c
+      projectPath: Library\metadata\90\90791303b72ec4ae198f99d637dfdf6c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\90\90791303b72ec4ae198f99d637dfdf6c.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\90\90791303b72ec4ae198f99d637dfdf6c.info
+      projectPath: Library\metadata\90\90791303b72ec4ae198f99d637dfdf6c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\94\9421b8fbb2fdcd545a4adcb2740d0ebc
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\94\9421b8fbb2fdcd545a4adcb2740d0ebc
+      projectPath: Library\metadata\94\9421b8fbb2fdcd545a4adcb2740d0ebc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\94\9421b8fbb2fdcd545a4adcb2740d0ebc.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\94\9421b8fbb2fdcd545a4adcb2740d0ebc.info
+      projectPath: Library\metadata\94\9421b8fbb2fdcd545a4adcb2740d0ebc.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\99\99ddb49592ff84811804420a1910cb89
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\99\99ddb49592ff84811804420a1910cb89
+      projectPath: Library\metadata\99\99ddb49592ff84811804420a1910cb89
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\99\99ddb49592ff84811804420a1910cb89.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\99\99ddb49592ff84811804420a1910cb89.info
+      projectPath: Library\metadata\99\99ddb49592ff84811804420a1910cb89.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9
+      projectPath: Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9.info
+      projectPath: Library\metadata\9d\9de9e8523c82543c5b3e40a4b51aa2c9.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
+      projectPath: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
+      projectPath: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\a3\a342381d77833427fa10621e38fbae10
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\a3\a342381d77833427fa10621e38fbae10
+      projectPath: Library\metadata\a3\a342381d77833427fa10621e38fbae10
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\a3\a342381d77833427fa10621e38fbae10.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\a3\a342381d77833427fa10621e38fbae10.info
+      projectPath: Library\metadata\a3\a342381d77833427fa10621e38fbae10.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\a3\a37e18887fa954edf92bc36bc353b879
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\a3\a37e18887fa954edf92bc36bc353b879
+      projectPath: Library\metadata\a3\a37e18887fa954edf92bc36bc353b879
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\a3\a37e18887fa954edf92bc36bc353b879.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\a3\a37e18887fa954edf92bc36bc353b879.info
+      projectPath: Library\metadata\a3\a37e18887fa954edf92bc36bc353b879.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc
+      projectPath: Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc.info
+      projectPath: Library\metadata\a6\a6842a74831964edc8fefa1c0aed89dc.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47
+      projectPath: Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47.info
+      projectPath: Library\metadata\ad\adab7787bd7d44c4a9d48b3aff189c47.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+      projectPath: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f.info
+      projectPath: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+      projectPath: Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e.info
+      projectPath: Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+      projectPath: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70.info
+      projectPath: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\b3\b32abd1c9d73a4cce8389f084ac12b11
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\b3\b32abd1c9d73a4cce8389f084ac12b11
+      projectPath: Library\metadata\b3\b32abd1c9d73a4cce8389f084ac12b11
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\b3\b32abd1c9d73a4cce8389f084ac12b11.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\b3\b32abd1c9d73a4cce8389f084ac12b11.info
+      projectPath: Library\metadata\b3\b32abd1c9d73a4cce8389f084ac12b11.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029
+      projectPath: Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029.info
+      projectPath: Library\metadata\b5\b52e557db2c2b4eebb10444f1d582029.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\b5\b5da970776034f77a070d99423d68791
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\b5\b5da970776034f77a070d99423d68791
+      projectPath: Library\metadata\b5\b5da970776034f77a070d99423d68791
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\b5\b5da970776034f77a070d99423d68791.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\b5\b5da970776034f77a070d99423d68791.info
+      projectPath: Library\metadata\b5\b5da970776034f77a070d99423d68791.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\b5\b5f4343795a0e4626ac1fe4a9e6fce59
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\b5\b5f4343795a0e4626ac1fe4a9e6fce59
+      projectPath: Library\metadata\b5\b5f4343795a0e4626ac1fe4a9e6fce59
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\b5\b5f4343795a0e4626ac1fe4a9e6fce59.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\b5\b5f4343795a0e4626ac1fe4a9e6fce59.info
+      projectPath: Library\metadata\b5\b5f4343795a0e4626ac1fe4a9e6fce59.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
+      projectPath: Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7.info
+      projectPath: Library\metadata\b8\b8a0574e92bd43a59e19d6c3c6ae54c7.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
+      projectPath: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
+      projectPath: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\bc\bcd27da1c9ae94d2cafe094482a20792
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\bc\bcd27da1c9ae94d2cafe094482a20792
+      projectPath: Library\metadata\bc\bcd27da1c9ae94d2cafe094482a20792
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\bc\bcd27da1c9ae94d2cafe094482a20792.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\bc\bcd27da1c9ae94d2cafe094482a20792.info
+      projectPath: Library\metadata\bc\bcd27da1c9ae94d2cafe094482a20792.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba
+      projectPath: Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba.info
+      projectPath: Library\metadata\c4\c452c88a87f3d48ae945e7bcf1b4a6ba.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482
+      projectPath: Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482.info
+      projectPath: Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
+      projectPath: Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288.info
+      projectPath: Library\metadata\c7\c768acbc9cf24d398488bb4c93b91288.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\c7\c79fb6d575be71345acbb2e1af7fe060
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\c7\c79fb6d575be71345acbb2e1af7fe060
+      projectPath: Library\metadata\c7\c79fb6d575be71345acbb2e1af7fe060
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\c7\c79fb6d575be71345acbb2e1af7fe060.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\c7\c79fb6d575be71345acbb2e1af7fe060.info
+      projectPath: Library\metadata\c7\c79fb6d575be71345acbb2e1af7fe060.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117
+      projectPath: Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117.info
+      projectPath: Library\metadata\c9\c99bfe4fc4e5c4dc3917c14075acd117.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
+      projectPath: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+      projectPath: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471
+      projectPath: Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471.info
+      projectPath: Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\cc\cc1b50b5501f748da8bec762294d9136
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\cc\cc1b50b5501f748da8bec762294d9136
+      projectPath: Library\metadata\cc\cc1b50b5501f748da8bec762294d9136
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\cc\cc1b50b5501f748da8bec762294d9136.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\cc\cc1b50b5501f748da8bec762294d9136.info
+      projectPath: Library\metadata\cc\cc1b50b5501f748da8bec762294d9136.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892
+      projectPath: Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892.info
+      projectPath: Library\metadata\ce\ce4395ccdb12cf62fca756358be1a892.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\d0\d05b96cee66e14240838de167097537a
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\d0\d05b96cee66e14240838de167097537a
+      projectPath: Library\metadata\d0\d05b96cee66e14240838de167097537a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\d0\d05b96cee66e14240838de167097537a.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\d0\d05b96cee66e14240838de167097537a.info
+      projectPath: Library\metadata\d0\d05b96cee66e14240838de167097537a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\d1\d1c1a2d988f5148fd9ab17b2460d271e
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\d1\d1c1a2d988f5148fd9ab17b2460d271e
+      projectPath: Library\metadata\d1\d1c1a2d988f5148fd9ab17b2460d271e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\d1\d1c1a2d988f5148fd9ab17b2460d271e.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\d1\d1c1a2d988f5148fd9ab17b2460d271e.info
+      projectPath: Library\metadata\d1\d1c1a2d988f5148fd9ab17b2460d271e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+      projectPath: Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626.info
+      projectPath: Library\metadata\d3\d33d54853fd0f48e0ac8a63ea91e6626.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\d5\d5ef1091df99b8d439302d9c4c6f09b8
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\d5\d5ef1091df99b8d439302d9c4c6f09b8
+      projectPath: Library\metadata\d5\d5ef1091df99b8d439302d9c4c6f09b8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\d5\d5ef1091df99b8d439302d9c4c6f09b8.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\d5\d5ef1091df99b8d439302d9c4c6f09b8.info
+      projectPath: Library\metadata\d5\d5ef1091df99b8d439302d9c4c6f09b8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e
+      projectPath: Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e.info
+      projectPath: Library\metadata\d6\d607a67dc772b484da060e66a3d61a4e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+      projectPath: Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0.info
+      projectPath: Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\d9\d929147d9f78c487397abb40f2c257b0
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\d9\d929147d9f78c487397abb40f2c257b0
+      projectPath: Library\metadata\d9\d929147d9f78c487397abb40f2c257b0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\d9\d929147d9f78c487397abb40f2c257b0.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\d9\d929147d9f78c487397abb40f2c257b0.info
+      projectPath: Library\metadata\d9\d929147d9f78c487397abb40f2c257b0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+      projectPath: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb.info
+      projectPath: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\dc\dce91326f102345f3ba2f0987c0679c2
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\dc\dce91326f102345f3ba2f0987c0679c2
+      projectPath: Library\metadata\dc\dce91326f102345f3ba2f0987c0679c2
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\dc\dce91326f102345f3ba2f0987c0679c2.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\dc\dce91326f102345f3ba2f0987c0679c2.info
+      projectPath: Library\metadata\dc\dce91326f102345f3ba2f0987c0679c2.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\dc\dced8f6ea9f964e8e8e61574ea889d21
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\dc\dced8f6ea9f964e8e8e61574ea889d21
+      projectPath: Library\metadata\dc\dced8f6ea9f964e8e8e61574ea889d21
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\dc\dced8f6ea9f964e8e8e61574ea889d21.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\dc\dced8f6ea9f964e8e8e61574ea889d21.info
+      projectPath: Library\metadata\dc\dced8f6ea9f964e8e8e61574ea889d21.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+      projectPath: Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\e1\e1007cd261c84053beb0c3537782908d.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\e1\e1007cd261c84053beb0c3537782908d.info
+      projectPath: Library\metadata\e1\e1007cd261c84053beb0c3537782908d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+      projectPath: Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a.info
+      projectPath: Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+      projectPath: Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680.info
+      projectPath: Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+      projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+      projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+      projectPath: Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea.info
+      projectPath: Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ee\eeed6954b3c264ca0b28a92aa6289bf0
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ee\eeed6954b3c264ca0b28a92aa6289bf0
+      projectPath: Library\metadata\ee\eeed6954b3c264ca0b28a92aa6289bf0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ee\eeed6954b3c264ca0b28a92aa6289bf0.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\ee\eeed6954b3c264ca0b28a92aa6289bf0.info
+      projectPath: Library\metadata\ee\eeed6954b3c264ca0b28a92aa6289bf0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\f1\f1045c695c5bf4fb7b8509687bc60fc0
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\f1\f1045c695c5bf4fb7b8509687bc60fc0
+      projectPath: Library\metadata\f1\f1045c695c5bf4fb7b8509687bc60fc0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\f1\f1045c695c5bf4fb7b8509687bc60fc0.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\f1\f1045c695c5bf4fb7b8509687bc60fc0.info
+      projectPath: Library\metadata\f1\f1045c695c5bf4fb7b8509687bc60fc0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\f2\f28fcced5af094cf78eb4e1109a71981
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\f2\f28fcced5af094cf78eb4e1109a71981
+      projectPath: Library\metadata\f2\f28fcced5af094cf78eb4e1109a71981
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\f2\f28fcced5af094cf78eb4e1109a71981.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\f2\f28fcced5af094cf78eb4e1109a71981.info
+      projectPath: Library\metadata\f2\f28fcced5af094cf78eb4e1109a71981.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+      projectPath: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8.info
+      projectPath: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+      projectPath: Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\f7\f70555f144d8491a825f0804e09c671c.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\f7\f70555f144d8491a825f0804e09c671c.info
+      projectPath: Library\metadata\f7\f70555f144d8491a825f0804e09c671c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\f7\f780b6337a423394180e87b99f9ae1e1
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\f7\f780b6337a423394180e87b99f9ae1e1
+      projectPath: Library\metadata\f7\f780b6337a423394180e87b99f9ae1e1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\f7\f780b6337a423394180e87b99f9ae1e1.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\f7\f780b6337a423394180e87b99f9ae1e1.info
+      projectPath: Library\metadata\f7\f780b6337a423394180e87b99f9ae1e1.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+      projectPath: Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc.info
+      projectPath: Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\fe\fec197bad419341558f81f2ec8a05e18
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\fe\fec197bad419341558f81f2ec8a05e18
+      projectPath: Library\metadata\fe\fec197bad419341558f81f2ec8a05e18
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
+      projectPath: Library\metadata\fe\fec197bad419341558f81f2ec8a05e18.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 4
+      staged: 0
   - commitID: 0356b8c3022931161240409b83ea28a6fc8ac824
     mergeA: 
     mergeB: 
@@ -28,373 +2387,373 @@ MonoBehaviour:
     commitTimeString: 2018-02-17T09:27:57.0000000-05:00
     changes:
     - path: Assets\Plugins.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins.meta
       projectPath: Assets\Plugins.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub.meta
       projectPath: Assets\Plugins\GitHub.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor.meta
       projectPath: Assets\Plugins\GitHub\Editor.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
       projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
       projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\CREDITS.txt
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\CREDITS.txt
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\CREDITS.txt
       projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
       projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\DotNetHttp35.dll
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\DotNetHttp35.dll
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\DotNetHttp35.dll
       projectPath: Assets\Plugins\GitHub\Editor\DotNetHttp35.dll
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\DotNetHttp35.dll.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\DotNetHttp35.dll.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\DotNetHttp35.dll.meta
       projectPath: Assets\Plugins\GitHub\Editor\DotNetHttp35.dll.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\EULA.txt
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\EULA.txt
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\EULA.txt
       projectPath: Assets\Plugins\GitHub\Editor\EULA.txt
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\EULA.txt.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\EULA.txt.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\EULA.txt.meta
       projectPath: Assets\Plugins\GitHub\Editor\EULA.txt.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
       projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
       projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
       projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
       projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
       projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
       projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
       projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
       projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
       projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
       projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
       projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
       projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
       projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
       projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
       projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
       projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\Mono.Security.dll
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Mono.Security.dll
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\Mono.Security.dll
       projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
       projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\Octokit.dll
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Octokit.dll
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\Octokit.dll
       projectPath: Assets\Plugins\GitHub\Editor\Octokit.dll
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\Octokit.dll.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Octokit.dll.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\Octokit.dll.meta
       projectPath: Assets\Plugins\GitHub\Editor\Octokit.dll.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\PlatformResources.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\PlatformResources.meta
       projectPath: Assets\Plugins\GitHub\Editor\PlatformResources.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
       projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
       projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
       projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
       projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
       projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
       projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
       projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
       projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll
       projectPath: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
       projectPath: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
       projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
       projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\System.Threading.dll
       projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
       projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\libsfw.bundle
       projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
       projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\libsfw.so
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\libsfw.so
       projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\libsfw.so.meta
       projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\sfw.net.dll
       projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
       projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\x64.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\x64.meta
       projectPath: Assets\Plugins\GitHub\Editor\x64.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
       projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
       projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
       projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
       projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\x86.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\x86.meta
       projectPath: Assets\Plugins\GitHub\Editor\x86.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
       projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
       projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
       projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
       originalPath: 
       status: 4
       staged: 0
     - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
       projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
       originalPath: 
       status: 4
@@ -412,19 +2771,19 @@ MonoBehaviour:
     commitTimeString: 2018-02-17T09:26:00.0000000-05:00
     changes:
     - path: Library\LastSceneManagerSetup.txt
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\LastSceneManagerSetup.txt
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\LastSceneManagerSetup.txt
       projectPath: Library\LastSceneManagerSetup.txt
       originalPath: 
       status: 4
       staged: 0
     - path: Library\ProjectSettings.asset
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\ProjectSettings.asset
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\ProjectSettings.asset
       projectPath: Library\ProjectSettings.asset
       originalPath: 
       status: 4
       staged: 0
     - path: Library\expandedItems
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\expandedItems
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\Library\expandedItems
       projectPath: Library\expandedItems
       originalPath: 
       status: 4
@@ -442,7 +2801,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-15T16:19:14.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -460,7 +2819,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-15T16:15:43.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -478,7 +2837,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-15T16:14:04.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -496,7 +2855,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-15T16:11:46.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -514,7 +2873,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-15T16:10:21.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -532,7 +2891,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-13T08:11:18.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -550,7 +2909,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-13T08:02:07.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -568,7 +2927,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-13T08:00:56.0000000-05:00
     changes:
     - path: wireframe2.0.png
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\wireframe2.0.png
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\wireframe2.0.png
       projectPath: wireframe2.0.png
       originalPath: 
       status: 4
@@ -586,8 +2945,8 @@ MonoBehaviour:
     commitTimeString: 2018-02-13T08:00:30.0000000-05:00
     changes:
     - path: WIREFRAME VERSION 2.0.png
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\WIREFRAME VERSION
-        2.0.png
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\WIREFRAME
+        VERSION 2.0.png
       projectPath: WIREFRAME VERSION 2.0.png
       originalPath: 
       status: 4
@@ -605,7 +2964,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-13T08:00:06.0000000-05:00
     changes:
     - path: wireframe2.0.png
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\wireframe2.0.png
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\wireframe2.0.png
       projectPath: wireframe2.0.png
       originalPath: 
       status: 5
@@ -623,7 +2982,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-12T00:12:27.0000000-05:00
     changes:
     - path: design-document.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\design-document.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\design-document.html
       projectPath: design-document.html
       originalPath: 
       status: 4
@@ -641,7 +3000,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-12T00:12:16.0000000-05:00
     changes:
     - path: design-document.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\design-document.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\design-document.html
       projectPath: design-document.html
       originalPath: 
       status: 5
@@ -659,7 +3018,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-12T00:07:40.0000000-05:00
     changes:
     - path: index.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.html
       projectPath: index.html
       originalPath: 
       status: 3
@@ -677,7 +3036,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-12T00:07:27.0000000-05:00
     changes:
     - path: design-document.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\design-document.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\design-document.html
       projectPath: design-document.html
       originalPath: 
       status: 3
@@ -695,7 +3054,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-12T00:07:04.0000000-05:00
     changes:
     - path: design-document.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\design-document.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\design-document.html
       projectPath: design-document.html
       originalPath: 
       status: 3
@@ -713,7 +3072,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-12T00:06:29.0000000-05:00
     changes:
     - path: index.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.html
       projectPath: index.html
       originalPath: 
       status: 3
@@ -731,7 +3090,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-12T00:04:56.0000000-05:00
     changes:
     - path: design-document.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\design-document.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\design-document.html
       projectPath: design-document.html
       originalPath: 
       status: 3
@@ -749,7 +3108,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-12T00:03:48.0000000-05:00
     changes:
     - path: index.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.html
       projectPath: index.html
       originalPath: 
       status: 3
@@ -767,7 +3126,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-12T00:02:48.0000000-05:00
     changes:
     - path: design-document.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\design-document.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\design-document.html
       projectPath: design-document.html
       originalPath: 
       status: 4
@@ -785,7 +3144,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-12T00:02:22.0000000-05:00
     changes:
     - path: wireframe2.0.png
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\wireframe2.0.png
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\wireframe2.0.png
       projectPath: wireframe2.0.png
       originalPath: 
       status: 4
@@ -803,7 +3162,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-12T00:02:03.0000000-05:00
     changes:
     - path: index.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.html
       projectPath: index.html
       originalPath: 
       status: 3
@@ -821,7 +3180,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-12T00:01:21.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -839,7 +3198,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-09T11:59:56.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -857,7 +3216,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-09T11:58:07.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -875,7 +3234,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-09T11:56:43.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -893,7 +3252,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-09T11:56:00.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -911,7 +3270,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-09T11:54:59.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -929,7 +3288,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-09T11:54:00.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -947,7 +3306,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-09T11:52:51.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -965,7 +3324,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-09T11:52:12.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -983,7 +3342,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-09T11:51:26.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1001,7 +3360,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-09T11:50:52.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1019,7 +3378,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-09T11:49:48.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1037,7 +3396,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-09T11:48:38.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1055,7 +3414,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-08T21:25:03.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1073,7 +3432,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-08T19:35:46.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1091,7 +3450,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-08T19:34:14.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1109,7 +3468,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-08T19:32:46.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1127,7 +3486,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-08T18:53:04.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1145,7 +3504,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-08T18:51:11.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1163,7 +3522,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-08T18:50:27.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1181,7 +3540,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-08T18:49:31.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1199,7 +3558,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-08T18:42:17.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1217,7 +3576,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-08T18:40:57.0000000-05:00
     changes:
     - path: index.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.html
       projectPath: index.html
       originalPath: 
       status: 3
@@ -1235,7 +3594,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-08T18:16:55.0000000-05:00
     changes:
     - path: index.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.html
       projectPath: index.html
       originalPath: 
       status: 3
@@ -1253,7 +3612,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:44:00.0000000-05:00
     changes:
     - path: index.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.html
       projectPath: index.html
       originalPath: 
       status: 3
@@ -1271,7 +3630,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:43:03.0000000-05:00
     changes:
     - path: index.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.html
       projectPath: index.html
       originalPath: 
       status: 3
@@ -1289,7 +3648,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:42:17.0000000-05:00
     changes:
     - path: index.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.html
       projectPath: index.html
       originalPath: 
       status: 3
@@ -1307,7 +3666,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:41:03.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1325,7 +3684,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:40:27.0000000-05:00
     changes:
     - path: index.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.html
       projectPath: index.html
       originalPath: 
       status: 3
@@ -1343,7 +3702,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:39:34.0000000-05:00
     changes:
     - path: index.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.html
       projectPath: index.html
       originalPath: 
       status: 3
@@ -1361,7 +3720,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:38:32.0000000-05:00
     changes:
     - path: index.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.html
       projectPath: index.html
       originalPath: 
       status: 3
@@ -1379,7 +3738,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:37:52.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1397,7 +3756,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:36:09.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1415,7 +3774,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:34:11.0000000-05:00
     changes:
     - path: oceanbg1.jpeg
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\oceanbg1.jpeg
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\oceanbg1.jpeg
       projectPath: oceanbg1.jpeg
       originalPath: 
       status: 4
@@ -1433,7 +3792,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:33:52.0000000-05:00
     changes:
     - path: oceanbg1.jpg
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\oceanbg1.jpg
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\oceanbg1.jpg
       projectPath: oceanbg1.jpg
       originalPath: 
       status: 5
@@ -1451,7 +3810,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:33:41.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1469,7 +3828,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:31:08.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1487,7 +3846,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:29:40.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1505,7 +3864,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:28:37.0000000-05:00
     changes:
     - path: oceanbg1.jpg
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\oceanbg1.jpg
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\oceanbg1.jpg
       projectPath: oceanbg1.jpg
       originalPath: 
       status: 4
@@ -1523,7 +3882,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:28:12.0000000-05:00
     changes:
     - path: oceanbg.jpg
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\oceanbg.jpg
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\oceanbg.jpg
       projectPath: oceanbg.jpg
       originalPath: 
       status: 5
@@ -1541,7 +3900,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:26:20.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1559,7 +3918,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:25:54.0000000-05:00
     changes:
     - path: index.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.html
       projectPath: index.html
       originalPath: 
       status: 3
@@ -1577,7 +3936,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:24:55.0000000-05:00
     changes:
     - path: index.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.html
       projectPath: index.html
       originalPath: 
       status: 3
@@ -1595,7 +3954,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:22:20.0000000-05:00
     changes:
     - path: index.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.html
       projectPath: index.html
       originalPath: 
       status: 3
@@ -1613,7 +3972,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:20:20.0000000-05:00
     changes:
     - path: index.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.html
       projectPath: index.html
       originalPath: 
       status: 3
@@ -1631,7 +3990,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:16:17.0000000-05:00
     changes:
     - path: oceanbg.jpg
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\oceanbg.jpg
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\oceanbg.jpg
       projectPath: oceanbg.jpg
       originalPath: 
       status: 4
@@ -1649,7 +4008,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-06T00:15:46.0000000-05:00
     changes:
     - path: oceanbg.jpg
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\oceanbg.jpg
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\oceanbg.jpg
       projectPath: oceanbg.jpg
       originalPath: 
       status: 5
@@ -1667,7 +4026,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-05T20:29:14.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 3
@@ -1685,7 +4044,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-05T20:28:42.0000000-05:00
     changes:
     - path: oceanbg.jpeg
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\oceanbg.jpeg
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\oceanbg.jpeg
       projectPath: oceanbg.jpeg
       originalPath: 
       status: 5
@@ -1703,7 +4062,7 @@ MonoBehaviour:
     commitTimeString: 2018-02-05T20:28:11.0000000-05:00
     changes:
     - path: oceanbg.jpg
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\oceanbg.jpg
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\oceanbg.jpg
       projectPath: oceanbg.jpg
       originalPath: 
       status: 4
@@ -1721,19 +4080,19 @@ MonoBehaviour:
     commitTimeString: 2018-01-28T14:29:55.0000000-05:00
     changes:
     - path: index.css
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.css
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.css
       projectPath: index.css
       originalPath: 
       status: 4
       staged: 0
     - path: index.html
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\index.html
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\index.html
       projectPath: index.html
       originalPath: 
       status: 4
       staged: 0
     - path: oceanbg.jpeg
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\oceanbg.jpeg
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\oceanbg.jpeg
       projectPath: oceanbg.jpeg
       originalPath: 
       status: 4
@@ -1751,7 +4110,7 @@ MonoBehaviour:
     commitTimeString: 2018-01-24T16:02:00.0000000-05:00
     changes:
     - path: README.md
-      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\README.md
+      fullPath: F:\Users\Sri\Documents\Coastal Defenders\Coastal Defenders\README.md
       projectPath: README.md
       originalPath: 
       status: 4

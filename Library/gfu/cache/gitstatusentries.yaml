@@ -11,9 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-02-20T00:08:42.6157566-05:00
-  lastVerifiedAtString: 2018-02-20T00:08:44.6131124-05:00
-  initializedAtString: 2018-02-20T00:03:44.5431805-05:00
+  lastUpdatedAtString: 2018-02-20T00:25:27.6261384-05:00
+  lastVerifiedAtString: 2018-02-20T00:25:27.6261384-05:00
+  initializedAtString: 2018-02-20T00:10:23.0413463-05:00
   entries:
   - path: Assets\howtoplay.unity
     fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\howtoplay.unity
@@ -21,15 +21,33 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\CurrentLayout.dwlt
-    fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\CurrentLayout.dwlt
-    projectPath: Library\CurrentLayout.dwlt
+  - path: Assets\mainmenu.unity
+    fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\mainmenu.unity
+    projectPath: Assets\mainmenu.unity
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\LastSceneManagerSetup.txt
-    fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\LastSceneManagerSetup.txt
-    projectPath: Library\LastSceneManagerSetup.txt
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
     originalPath: 
     status: 3
     staged: 0
@@ -75,9 +93,33 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: Library\metadata\c2\c270bdca896d0cb44a7d05202de58047
+    fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\metadata\c2\c270bdca896d0cb44a7d05202de58047
+    projectPath: Library\metadata\c2\c270bdca896d0cb44a7d05202de58047
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     status: 3
+    staged: 0
+  - path: Assets\Button Scripts.meta
+    fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Button Scripts.meta
+    projectPath: Assets\Button Scripts.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Button Scripts\StartButton.cs
+    fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Button Scripts\StartButton.cs
+    projectPath: Assets\Button Scripts\StartButton.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Button Scripts\StartButton.cs.meta
+    fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\Button Scripts\StartButton.cs.meta
+    projectPath: Assets\Button Scripts\StartButton.cs.meta
+    originalPath: 
+    status: 1
     staged: 0

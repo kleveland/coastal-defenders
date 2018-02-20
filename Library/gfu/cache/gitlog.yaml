@@ -11,10 +11,133 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-02-20T00:03:43.8317880-05:00
-  lastVerifiedAtString: 2018-02-20T00:03:43.8317880-05:00
-  initializedAtString: 2018-02-20T00:03:43.8317880-05:00
+  lastUpdatedAtString: 2018-02-20T00:25:41.7839306-05:00
+  lastVerifiedAtString: 2018-02-20T00:25:41.7839306-05:00
+  initializedAtString: 2018-02-20T00:10:22.3145862-05:00
   log:
+  - commitID: 3cca676db39d3366777db32b48a3d5bbf9149d82
+    mergeA: 699c1620b0a911692ab0eb9c7e12d39d1d15388a
+    mergeB: f25f81de79923cb5328b3dbcbf0ddcb2b78df835
+    authorName: Kacey Cleveland
+    authorEmail: k1996@ad.unc.edu
+    commitEmail: k1996@ad.unc.edu
+    commitName: Kacey Cleveland
+    summary: Merge branch 'unity' of https://github.com/kleveland/coastal-defenders
+      into unity
+    description: Merge branch 'unity' of https://github.com/kleveland/coastal-defenders
+      into unity
+    timeString: 2018-02-20T00:09:59.0000000-05:00
+    commitTimeString: 2018-02-20T00:09:59.0000000-05:00
+    changes: []
+  - commitID: 699c1620b0a911692ab0eb9c7e12d39d1d15388a
+    mergeA: 
+    mergeB: 
+    authorName: Kacey Cleveland
+    authorEmail: k1996@ad.unc.edu
+    commitEmail: k1996@ad.unc.edu
+    commitName: Kacey Cleveland
+    summary: fixed how to play screen
+    description: fixed how to play screen
+    timeString: 2018-02-20T00:09:24.0000000-05:00
+    commitTimeString: 2018-02-20T00:09:24.0000000-05:00
+    changes:
+    - path: Assets\howtoplay.unity
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\howtoplay.unity
+      projectPath: Assets\howtoplay.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\LastSceneManagerSetup.txt
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: f25f81de79923cb5328b3dbcbf0ddcb2b78df835
+    mergeA: 
+    mergeB: 
+    authorName: RichardLang2020
+    authorEmail: 31971108+RichardLang2020@users.noreply.github.com
+    commitEmail: 31971108+RichardLang2020@users.noreply.github.com
+    commitName: RichardLang2020
+    summary: Fixing Image Links
+    description: "Fixing Image Links\r\n\r\nFixed the images in the canvas so that
+      they're linked properly"
+    timeString: 2018-02-20T00:05:38.0000000-05:00
+    commitTimeString: 2018-02-20T00:05:38.0000000-05:00
+    changes:
+    - path: Assets\howtoplay.unity
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Assets\howtoplay.unity
+      projectPath: Assets\howtoplay.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\c2\c270bdca896d0cb44a7d05202de58047
+      fullPath: D:\Projects\CoastalDefenders2\New Unity Project (2)\Library\metadata\c2\c270bdca896d0cb44a7d05202de58047
+      projectPath: Library\metadata\c2\c270bdca896d0cb44a7d05202de58047
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 80c1ea1d322dc1c8d8a9a01eb429c2806b7c78bd
     mergeA: 
     mergeB: 

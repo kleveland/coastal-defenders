@@ -87,14 +87,12 @@ ul li:hover a {
 	letter-spacing: 3px;
 	font-weight: 900;
 	font-size: 80px;
-	height: 60vh;
 
 }
 
 .subtitle_header {
 	color: #FFFFFF;
 	text-align: center;
-	margin-top: -400px;
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-left: 0px;
@@ -108,6 +106,7 @@ ul li:hover a {
 	background: url(./oceanbg1.jpeg) center center no-repeat;
 	padding-top: 150px;
 	padding-bottom: 150px;
+    height: 100vh;
 	
 }
 .tagline {
